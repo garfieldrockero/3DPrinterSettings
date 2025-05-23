@@ -1,0 +1,40 @@
+{
+    "additional_cooling_fan_speed": [
+        "80"
+    ],
+    "filament_retraction_length": [
+        "0.8"
+    ],
+    "filament_settings_id": [
+        "Creality Hyper PLA"
+    ],
+    "filament_start_gcode": [
+        "; filament start gcode\n{if (position[2] > first_layer_height) }\nM104 S[nozzle_temperature]\n{else} \nM104 S[first_layer_temperature]\n{endif}\n"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "50"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "50"
+    ],
+    "inherits": "Creality Generic PLA High Speed @K1-all",
+    "is_custom_defined": "0",
+    "name": "Creality Hyper PLA",
+    "nozzle_temperature_range_high": [
+        "240"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "1"
+    ],
+    "slow_down_layer_time": [
+        "6"
+    ],
+    "textured_plate_temp": [
+        "50"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "50"
+    ],
+    "version": "2.3.0.3"
+}
