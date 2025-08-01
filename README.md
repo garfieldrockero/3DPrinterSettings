@@ -17,12 +17,17 @@ This repository contains print and filament profiles exported from OrcaSlicer fo
     - `Creality/`
       - `ELEGOO PLA Básico @Creality K1C 0.4 nozzle.json`: Elegoo Basic PLA profile for Creality K1C.
       - `ELEGOO PLA Básico Good.json`: Additional Elegoo Basic PLA profile.
+  - `Winkle3D/`: Directory for Winkle PLA HD filament profiles and bundles.
+    - `bundle_structure.json`: Bundle structure for Winkle PLA HD.
+    - `Creality/`
+      - `Winkle PLA HD.json`: Base profile for Winkle PLA HD.
+      - `Winkle PLA HD good.json`: Optimized Winkle PLA HD profile.
 
 ## Main Content
 
 - Acceleration, speed, retraction, and printable area parameters.
 - Custom gcodes for start, filament change, and print end.
-- Filament profiles with recommended temperatures and settings, including new Elegoo Basic PLA profiles.
+- Filament profiles with recommended temperatures and settings, including Elegoo Basic PLA and Winkle PLA HD profiles.
 
 ## Usage
 
@@ -57,12 +62,17 @@ Este repositorio contiene perfiles de impresión y filamento exportados desde Or
     - `Creality/`
       - `ELEGOO PLA Básico @Creality K1C 0.4 nozzle.json`: Perfil de Elegoo PLA Básico para Creality K1C.
       - `ELEGOO PLA Básico Good.json`: Perfil adicional de Elegoo PLA Básico.
+  - `Winkle3D/`: Directorio para perfiles y bundles de Winkle PLA HD.
+    - `bundle_structure.json`: Estructura del bundle de Winkle PLA HD.
+    - `Creality/`
+      - `Winkle PLA HD.json`: Perfil base para Winkle PLA HD.
+      - `Winkle PLA HD good.json`: Perfil optimizado de Winkle PLA HD.
 
 ## Contenido principal
 
 - Parámetros de aceleración, velocidad, retracción y área imprimible.
 - Gcodes personalizados para inicio, cambio de filamento y finalización de impresión.
-- Perfiles de filamento con temperaturas y ajustes recomendados, incluyendo los nuevos perfiles de Elegoo PLA Básico.
+- Perfiles de filamento con temperaturas y ajustes recomendados, incluyendo perfiles de Elegoo PLA Básico y Winkle PLA HD.
 
 ## Uso
 

@@ -1,0 +1,22 @@
+{
+    "filament_cost": [
+        "16.99"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "Winkle PLA HD prueba"
+    ],
+    "from": "User",
+    "inherits": "Winkle PLA HD",
+    "is_custom_defined": "0",
+    "name": "Winkle PLA HD prueba",
+    "nozzle_temperature": [
+        "230"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "235"
+    ],
+    "version": "2.3.0.3"
+}
